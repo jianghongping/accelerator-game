@@ -45,9 +45,10 @@ If any player has more than the threshold number of victory points, the player w
 ---
 
 ## Components
-Each component has the following parameters:
+Each component has the following parameters
+
 | C$ | Cost to purchase and install |
-| :---------- | :------- |
+| ----------: | -------: |
 | D | Development papers |
 | R | Results papers |
 | F$ | User fees |
