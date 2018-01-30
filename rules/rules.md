@@ -46,6 +46,7 @@ If any player has more than the threshold number of victory points, the player w
 
 ## Components
 | C$ | Cost to purchase and install |
+| ----------: | -------: |
 | D | Development papers |
 | R | Results papers |
 | F$ | User fees |
