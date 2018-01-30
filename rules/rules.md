@@ -45,15 +45,10 @@ If any player has more than the threshold number of victory points, the player w
 ---
 
 ## Components
-
-Each component costs an amount listed as C$# where the # represent the cost in millions of dollars.
-
-has the following properties:
-1. Development papers (earned once on installation)
-2. Results papers (earned per turn)
-3. User fees (earned per turn)
-
-These are listed as D#/R#/F$# where the # indicates the number of development or results papers (D and R) or the amount of user fees (F$).
+Each component has costs C$ listed in millions of dollars and has the following income:
+1. D: Development papers (earned once on installation)
+2. R: Results papers (earned per turn)
+3. F$: User fees (earned per turn)
 
 ### Particle source
 | C$ | D | R | F$ |
