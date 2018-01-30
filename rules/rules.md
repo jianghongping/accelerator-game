@@ -45,10 +45,11 @@ If any player has more than the threshold number of victory points, the player w
 ---
 
 ## Components
-Each component has costs C$ listed in millions of dollars and has the following income:
-1. D: Development papers (earned once on installation)
-2. R: Results papers (earned per turn)
-3. F$: User fees (earned per turn)
+Each component has the following parameters:
+| C$ | Cost to purchase and install |
+| D | Development papers (earned once on installation) |
+| R | Results papers (earned per turn) |
+| F$ | User fees (earned per turn) |
 
 ### Particle source
 | C$ | D | R | F$ |
@@ -73,7 +74,7 @@ Each component has costs C$ listed in millions of dollars and has the following 
 ### Beamline
 | C$ | D | R | F$ |
 | --: | --: | --: | --: |
-| 10 | 1 | 1 | 1 |
+| 10 | 1 | 1 | 5 |
 
 ### Experimental hall
 | C$ | D | R | F$ |
