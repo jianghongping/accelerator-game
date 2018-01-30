@@ -32,6 +32,8 @@ Each paper-generating component lists the number of development papers generated
 1. Earn fees based on user facilities (Add amounts listed on each installed user facility)
 2. Receive grant money based on published papers (Add amounts listed on each current paper held)
 
+(Funds may be held over from turn to turn.)
+
 ### Assess victory points
 Earn victory points based on:
 * Papers published (gain victory point for each paper, then move paper to an archive pile)
@@ -54,25 +56,36 @@ has the following properties:
 These are listed as D#/R#/F$# where the # indicates the number of development or results papers (D and R) or the amount of user fees (F$).
 
 ### Particle source
-C$20/D5/R1/F$0
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 20 | 5 | 1 | 0 |
 
 ### Linac
-C$10/D1/R1/F$0
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 10 | 1 | 1 | 0 |
 
 ### Beam splitter
-C$5/D1/R0/F$0
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 5 | 1 | 0 | 0 |
 
 ### End stations
-C$50/D2/R3/F$0
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 50 | 2 | 3 | 0 |
 
 ### Beamline
-C$10/D1/R1/F$1
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 10 | 1 | 1 | 1 |
 
 ### Experimental hall
-C$100/D5/R7/F$0
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 100 | 5 | 7 | 0 |
 
 ---
-
 ## Papers
 
 Distribution of grants based on papers
