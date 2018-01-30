@@ -50,9 +50,9 @@ Each component has the following parameters
 | Parameter | Description |
 | :----------: | :------- |
 | C$ | Cost to purchase and install |
-| D | Development papers |
-| R | Results papers |
-| F$ | User fees |
+| D | Development papers (once per install) |
+| R | Results papers (once per turn) |
+| F$ | User fees (once per turn) |
 
 ### Particle source
 | C$ | D | R | F$ |
