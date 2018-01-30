@@ -45,6 +45,10 @@ If any player has more than the threshold number of victory points, the player w
 ---
 
 ## Components
+| C$ | D | R | F$ |
+| --: | --: | --: | --: |
+| 20 | 5 | 1 | 0 |
+
 Each component has the following parameters
 
 | C$ | Cost to purchase and install |
