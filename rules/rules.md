@@ -46,6 +46,7 @@ If any player has more than the threshold number of victory points, the player w
 
 ## Components
 Each component has the following parameters:
+| --- | --- |
 | C$ | Cost to purchase and install |
 | D | Development papers (earned once on installation) |
 | R | Results papers (earned per turn) |
